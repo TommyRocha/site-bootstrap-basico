@@ -4,6 +4,8 @@ html, body{
     height: 100vw;
 
     background-image: url("../images/contato.jpg") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 
